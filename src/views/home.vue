@@ -1,5 +1,5 @@
 <template>
-    <div>Home</div>
+    <div>hello world</div>
 </template>
 
 <script>
@@ -7,8 +7,12 @@
 export default {
     // eslint-disable-next-line vue/multi-word-component-names
     name: "home",
-    components: {}
+    components: {},
+    methods: {
+    },
+    mounted() {}
 }
+
 </script>
 
 <style>
